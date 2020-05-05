@@ -11,5 +11,5 @@ HackerRank is a tech company that has a focus on competitive programming challen
 This repository contains some of these programming challenges in Python: it is a work in progress.
 
 
-#Authors
+# Authors
 - Dilay Fidan Ercelik
