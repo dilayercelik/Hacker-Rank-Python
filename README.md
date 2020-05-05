@@ -13,3 +13,6 @@ This repository contains some of these programming challenges in Python: it is a
 
 # Authors
 - Dilay Fidan Ercelik
+
+# License 
+This work is licensed under the MIT License - see LICENSE.txt
