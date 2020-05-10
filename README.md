@@ -13,7 +13,7 @@ This repository contains some of these programming challenges in Python: it is a
 
 
 # Authors
-- Dilay Fidan Ercelik (original work)
+- Dilay Fidan Ercelik 
 
 # License 
 This work is licensed under the MIT License - see [LICENSE.txt](https://github.com/dilayercelik/Hacker-Rank-Python/blob/master/LICENSE.txt)
